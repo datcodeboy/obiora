@@ -1,0 +1,6 @@
+Full name: Obiora Nwude
+E-mail Address: tobynwude@gmail.com
+Slack Username: Obiora
+Tracks: Front-end, Back-end, Mobile, Design
+Skills: HTML,CSS,JavaScript,Python,Flutter,UI/Ux,NodeJs
+Link: https://dev.start.ng/#/user/task/30
